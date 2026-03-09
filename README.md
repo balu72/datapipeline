@@ -25,11 +25,17 @@ Below are the typical normal reference ranges for adults (may vary slightly by l
 **Example interpretation patterns (important for datasets)**
 
 **| Pattern                              | Possible Condition                 |**
+
 | ------------------------------------ | ---------------------------------- |
+
 | **High ALT & AST**                   | Hepatitis, liver injury            |
+
 | **High ALP + High Direct Bilirubin** | Bile duct obstruction              |
+
 | **Low Albumin**                      | Chronic liver disease or cirrhosis |
+
 | **AST > ALT (ratio >2)**             | Alcoholic liver disease            |
+
 
 
 Typical dataset thresholds used in ML liver datasets
