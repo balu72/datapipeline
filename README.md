@@ -4,14 +4,23 @@ Below are the typical normal reference ranges for adults (may vary slightly by l
 
 **| Parameter                                   | Normal Range (Adults) | What it Indicates                                                           |**
 | ------------------------------------------- | --------------------- | --------------------------------------------------------------------------- |
+
 | **Total Bilirubin**                         | **0.3 – 1.2 mg/dL**   | High levels may indicate liver disease, bile duct obstruction, or hemolysis |
+
 | **Direct Bilirubin (Conjugated)**           | **0 – 0.3 mg/dL**     | Elevated in bile duct obstruction or hepatocellular damage                  |
+
 | **Alkaline Phosphatase (ALP / Alkphos)**    | **44 – 147 IU/L**     | Elevated in bile duct obstruction, liver disease, bone disease              |
+
 | **SGPT (ALT – Alanine Aminotransferase)**   | **7 – 56 U/L**        | Liver cell injury indicator                                                 |
+
 | **SGOT (AST – Aspartate Aminotransferase)** | **10 – 40 U/L**       | Liver, heart, or muscle damage marker                                       |
+
 | **Total Proteins**                          | **6.0 – 8.3 g/dL**    | Indicates liver’s protein synthesis ability                                 |
+
 | **Albumin (ALB)**                           | **3.5 – 5.0 g/dL**    | Low levels suggest chronic liver disease or malnutrition                    |
+
 | **A/G Ratio (Albumin/Globulin)**            | **1.0 – 2.5**         | Lower ratio may indicate liver disease or immune disorders                  |
+
 
 **Example interpretation patterns (important for datasets)**
 
